@@ -50,7 +50,6 @@ Before running the application, make sure you have Python 3.x installed. You'll 
 The following Python libraries are required to run the application:
 - `PyQt5`: For creating the GUI.
 - `base64`: Built-in Python module for Base64 encoding/decoding.
-- `Pillow`: For image manipulation and preview scaling.
 
 These dependencies are automatically listed in `requirements.txt`, so you can install them using the command above.
 
