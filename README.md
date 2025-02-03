@@ -18,7 +18,7 @@ Before running the application, make sure you have Python 3.x installed. You'll 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/base64-image-converter.git
+    git clone https://github.com/walik7496/base64_tool.git
     ```
 2. Navigate to the project folder:
     ```bash
